@@ -5,7 +5,7 @@ Bangla News 24 is a modern news portal where users can explore the latest news a
 ## 🔗 Live Demo & Repository
 
 - **Live Website:** [Visit Bangla News 24](YOUR_LIVE_LINK)
-- **GitHub Repository:** [View Source Code](YOUR_REPOSITORY_LINK)
+- **GitHub Repository:** [View Source Code](https://github.com/priyaahmed007/Bangla-News-24.git)
 
 ## ✨ Features
 
